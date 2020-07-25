@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "reservation-app"
+    }
+  },
+  "defaultProject": "reservation-app",
+  "cli": {
+    "analytics": "15356b1b-c90b-492d-a359-ed474503b854"
+  }
 }
